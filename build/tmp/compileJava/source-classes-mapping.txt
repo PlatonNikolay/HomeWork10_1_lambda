@@ -1,0 +1,8 @@
+home/work10/lambda/ProcessEnum.java
+ home.work10.lambda.ProcessEnum
+home/work10/lambda/Main.java
+ home.work10.lambda.Main
+home/work10/lambda/CreatorArrays.java
+ home.work10.lambda.CreatorArrays
+home/work10/lambda/Processable.java
+ home.work10.lambda.Processable
